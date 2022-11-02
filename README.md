@@ -2,9 +2,9 @@
 
 # Sobre o projeto
 
-Link do jogo: https://hora-do-dia.pages.dev/
+Link do projeto: https://hora-do-dia.pages.dev/
 
-Este jogo é uma aplicação front-end, um projeto mostra o horario atual e troca de cor de acordo com a hora
+Este projeto é uma aplicação front-end, um projeto mostra o horario atual e troca de cor de acordo com a hora
 
 ## Layout computador
 ![Web 2](https://github.com/marciosenaf/Hora-do-dia/blob/main/computer.readme.png)
